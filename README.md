@@ -146,7 +146,7 @@ This project demonstrates how CPI data can be used to:
 5. Explore the PivotTables and charts in the analytical sheets.
 6. Compare sector-wise trends, monthly patterns, pre- and post-COVID indices, and correlation results.
 
-## 📌 Limitations
+##  Limitations
 
 * The analysis is limited to the data and time period available in the workbook.
 * CPI index movements do not necessarily represent the same rate of inflation across all categories.
