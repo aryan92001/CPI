@@ -1,5 +1,18 @@
 #  CPI Inflation Analysis in India (2013–2023)
 
+<p align="left">
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Microsoft Excel" />
+  <img src="https://img.shields.io/badge/Data_Cleaning-4472C4?style=for-the-badge&logoColor=white" alt="Data Cleaning" />
+  <img src="https://img.shields.io/badge/Data_Transformation-7030A0?style=for-the-badge&logoColor=white" alt="Data Transformation" />
+  <img src="https://img.shields.io/badge/Pivot_Tables-00A6A6?style=for-the-badge&logoColor=white" alt="Pivot Tables" />
+  <img src="https://img.shields.io/badge/Pivot_Charts-ED7D31?style=for-the-badge&logoColor=white" alt="Pivot Charts" />
+  <img src="https://img.shields.io/badge/Data_Visualization-8E44AD?style=for-the-badge&logoColor=white" alt="Data Visualization" />
+  <img src="https://img.shields.io/badge/Statistical_Analysis-2E75B6?style=for-the-badge&logoColor=white" alt="Statistical Analysis" />
+  <img src="https://img.shields.io/badge/Correlation_Analysis-C00000?style=for-the-badge&logoColor=white" alt="Correlation Analysis" />
+  <img src="https://img.shields.io/badge/Time_Series_Analysis-548235?style=for-the-badge&logoColor=white" alt="Time Series Analysis" />
+  <img src="https://img.shields.io/badge/Inflation_Trend_Analysis-FFB900?style=for-the-badge&logoColor=black" alt="Inflation Trend Analysis" />
+</p>
+
 ##  Project Overview
 
 This project analyzes **Consumer Price Index (CPI) trends in India from January 2013 to May 2023** using Microsoft Excel. It explores changes in price indices across rural, urban, and combined rural–urban sectors and examines how inflation patterns differ across major expenditure categories.
