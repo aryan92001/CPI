@@ -1,4 +1,4 @@
-# 📊 CPI Inflation Analysis in India (2013–2023)
+# CPI Inflation Analysis in India (2013–2023)
 
 <p align="left">
   <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Microsoft Excel" />
@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/badge/Inflation_Trend_Analysis-FFB900?style=for-the-badge&logoColor=black" alt="Inflation Trend Analysis" />
 </p>
 
-## 📌 Project Overview
+## Project Overview
 
 This project analyzes India's Consumer Price Index (CPI) data using Microsoft Excel to understand price movements across different consumption categories and geographical sectors.
 
@@ -21,7 +21,7 @@ The analysis explores year-on-year trends, food inflation, broader consumption c
 
 The project demonstrates practical skills in data cleaning, data transformation, Excel-based analysis, and economic data interpretation.
 
-## 🎯 Project Objectives
+## Project Objectives
 
 - Analyze India's CPI trends from 2013 to 2023.
 - Compare Rural, Urban, and Rural + Urban CPI patterns.
@@ -36,7 +36,7 @@ The project demonstrates practical skills in data cleaning, data transformation,
 <img width="461" height="151" alt="image" src="https://github.com/user-attachments/assets/bccb4e35-43e7-4595-b342-740190b9e4bb" />
 
 
-## 📂 Dataset Information
+## Dataset Information
 
 The workbook contains monthly CPI observations covering **January 2013 to April 2023**.
 
@@ -70,7 +70,7 @@ The workbook includes additional consumption categories beyond those listed abov
 
 **Note:** CPI index values represent price levels relative to a reference period. They should not be confused with inflation rates, which measure percentage changes in prices over time.
 
-## 🗂️ Workbook Structure
+## Workbook Structure
 
 The Excel workbook contains 15 worksheets:
 
@@ -92,7 +92,7 @@ The Excel workbook contains 15 worksheets:
 | 14 | Fuel vs Non Alcoholic Inflation | Relationship between fuel and non-alcoholic beverages |
 | 15 | Correlation | Summary of selected correlation calculations |
 
-## 🔍 Analysis Performed
+## Analysis Performed
 
 ### 1. Year-on-Year Analysis
 Examines yearly CPI patterns and differences between Rural, Urban, and Rural + Urban sectors.
@@ -131,7 +131,7 @@ Uses correlation calculations to evaluate the strength and direction of relation
 
 A positive correlation indicates that two series tend to move in the same direction, while a negative correlation indicates that they tend to move in opposite directions. Correlation does not establish causation.
 
-## 🛠️ Tools and Technologies
+## Tools and Technologies
 
 - **Microsoft Excel** — Data analysis and reporting
 - **Excel Formulas** — Calculations and correlation analysis
@@ -139,7 +139,7 @@ A positive correlation indicates that two series tend to move in the same direct
 - **PivotTables** — Summarization and comparison of CPI data
 - **GitHub** — Project hosting and version control
 
-## 📈 Key Takeaways
+## Key Takeaways
 
 This project provides a framework for investigating:
 
@@ -151,7 +151,7 @@ This project provides a framework for investigating:
 
 The conclusions should be based on the actual calculations and charts in the workbook rather than assuming that every category follows the same trend.
 
-## 🚀 How to Use This Project
+## How to Use This Project
 
 1. Download or clone this repository.
 2. Open `Whole CPI Inflation Project.xlsx` in Microsoft Excel.
@@ -162,7 +162,7 @@ The conclusions should be based on the actual calculations and charts in the wor
 
 Microsoft Excel is recommended for compatibility with PivotTables, formulas, and other workbook features.
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```text
 CPI-Inflation-Analysis/
@@ -176,7 +176,7 @@ CPI-Inflation-Analysis/
 
 The `screenshots/` folder is optional. Add screenshots of your actual Excel analysis or charts to improve the presentation of your GitHub repository.
 
-## ⚠️ Limitations
+## Limitations
 
 - CPI index values are not equivalent to inflation rates.
 - Correlation does not prove causation.
@@ -184,13 +184,9 @@ The `screenshots/` folder is optional. Add screenshots of your actual Excel anal
 - Results depend on the accuracy and completeness of the underlying dataset.
 - Correlation calculations should be checked for formula errors and consistent date alignment before interpreting the results.
 
-## 👨‍💻 Author
+## Author
 
 **Project:** CPI Inflation Analysis in India  
 **Domain:** Data Analytics | Economic Analysis  
 **Tool:** Microsoft Excel  
 **Period Covered:** 2013–2023
-
----
-
-⭐ If you find this project useful, consider starring the repository!
