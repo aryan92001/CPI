@@ -21,7 +21,7 @@ The analysis explores year-on-year trends, food inflation, broader consumption c
 
 The project demonstrates practical skills in data cleaning, data transformation, Excel-based analysis, and economic data interpretation.
 
-## Project Objectives
+## Objectives
 
 - Analyze India's CPI trends from 2013 to 2023.
 - Compare Rural, Urban, and Rural + Urban CPI patterns.
