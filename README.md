@@ -147,7 +147,7 @@ Food inflation jumped from 4% in 2019 to 8% in 2020, reflecting supply chain dis
 ### 6. Fuel and Other Category Relationships
 Examines relationships between Fuel and Light and selected categories, including transport, education, food, cereals, and non-alcoholic beverages.
 
-##### 6.1 Fuel vs Non-Alcoholic Beverages (69%): Strong positive correlation. Beverage prices closely track fuel costs, with energy hikes translating into higher beverage inflation, especially in 2021 and 2022.
+#### 6.1 Fuel vs Non-Alcoholic Beverages (69%): Strong positive correlation. Beverage prices closely track fuel costs, with energy hikes translating into higher beverage inflation, especially in 2021 and 2022.
 
 
 <img width="957" height="550" alt="image" src="https://github.com/user-attachments/assets/0bdcc69c-20ce-44de-aae6-c5c3cb18f5a8" />
@@ -156,7 +156,7 @@ Examines relationships between Fuel and Light and selected categories, including
 From 2021 to 2023, fuel and light showed a strong positive 69% correlation with non-alcoholic beverages. Fuel hikes in early 2021 and April 2022 aligned with beverage inflation, while late 2022 onward reflected steady parallel growth, underscoring energy’s significant influence on beverage costs.
 
 
-##### 6.2 Fuel vs Cereals & Products (-24%): Inverse Relationship. Rising fuel costs coincided with declining cereal prices, highlighting that staple food inflation was not directly tied to energy fluctuations.
+#### 6.2 Fuel vs Cereals & Products (-24%): Inverse Relationship. Rising fuel costs coincided with declining cereal prices, highlighting that staple food inflation was not directly tied to energy fluctuations.
 
 
 <img width="878" height="547" alt="image" src="https://github.com/user-attachments/assets/381622f9-4766-4a5f-b2fc-1414c4334a5b" />
@@ -204,20 +204,6 @@ The conclusions should be based on the actual calculations and charts in the wor
 6. Review the correlation calculations and charts to understand the relationships being investigated.
 
 Microsoft Excel is recommended for compatibility with PivotTables, formulas, and other workbook features.
-
-## Repository Structure
-
-```text
-CPI-Inflation-Analysis/
-│
-├── README.md
-├── Whole CPI Inflation Project.xlsx
-└── screenshots/
-    ├── dashboard.png
-    └── analysis.png
-```
-
-The `screenshots/` folder is optional. Add screenshots of your actual Excel analysis or charts to improve the presentation of your GitHub repository.
 
 ## Limitations
 
