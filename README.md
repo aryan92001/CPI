@@ -94,54 +94,83 @@ The Excel workbook contains 15 worksheets:
 
 ## Analysis Performed
 
-### 1. Year-on-Year Analysis
+### 1. Broader Category Analysis
+Organizes individual consumption items into broader categories to investigate differences in price movements.
+
+<img width="588" height="382" alt="image" src="https://github.com/user-attachments/assets/ebe2b2cc-f3c3-4550-ac17-7a03c9d5b715" />
+
+
+In this visual representation, Food has the highest Inflation rate with 44.44% which is followed by Luxury with 14.81% and Clothing with 11.11% within broader categories while housing contributes with 7.41% and rest of all contributes of 3.70% to inflate the data.
+
+
+### 2. Year-on-Year Analysis
 Examines yearly CPI patterns and differences between Rural, Urban, and Rural + Urban sectors.
+
 <img width="1082" height="580" alt="image" src="https://github.com/user-attachments/assets/87a5d49d-c093-47a7-89cb-9aea06828d9e" />
 
-### 2. Broader Category Analysis
-Organizes individual consumption items into broader categories to investigate differences in price movements.
-<img width="588" height="382" alt="image" src="https://github.com/user-attachments/assets/ebe2b2cc-f3c3-4550-ac17-7a03c9d5b715" />
+
+Insights: Inflation peaked in 2022, reaching 6.8% in Rural, 6.6% in Rural+Urban, and 6.3% in Urban areas. In 2023, inflation eased significantly across all sectors, indicating reduced inflationary pressure.
+
+1. Russia–Ukraine war: Disrupted global supplies and raised commodity prices.
+2. Food shortages: Extreme heat and uneven rainfall damaged crops, increasing food prices.
+3. Fuel costs: Higher crude oil prices increased transportation and production expenses.
+4. Global supply disruptions: Expensive raw materials intensified price pressures. 
+
 
 ### 3. Monthly Food Inflation Analysis
 Explores monthly variations in food-related CPI categories, including cereals, milk, fruits, vegetables, and pulses.
+
 <img width="1192" height="623" alt="image" src="https://github.com/user-attachments/assets/aea8ae3f-96fd-4fe1-8f45-c1febffea981" />
+
+
+Vegetable prices showed the sharpest fluctuation, falling 12.7% in Dec-22 before rebounding to 3.5% in May-23. Fruit prices peaked at 7.1% in Feb-23, indicating volatility. Milk inflation reached 1.5% in Feb-23, while pulses rose 1.2% in May-23, highlighting uneven food-price movements.
+
 
 ### 4. Absolute CPI Analysis
 Examines CPI index levels across consumption categories to understand how price levels vary over the study period.
+
 <img width="1145" height="610" alt="image" src="https://github.com/user-attachments/assets/4f7bef90-687f-4987-a2c2-1d9cfa346ad9" />
+
+
+From 2022–2023, vegetable inflation fell 13% across rural, combined, and urban sectors, marking the steepest decline. Spices recorded the highest increase, rising 12% in rural and combined areas and 11% in urban areas. Oils and fats declined 8%, 7%, and 5%, respectively, indicating divergent food-price trends.
+
 
 ### 5. Pre- and Post-COVID Comparison
 Investigates changes in CPI patterns before, during, and after the COVID-19 disruption.
+
 <img width="1048" height="606" alt="image" src="https://github.com/user-attachments/assets/6007504f-3b0e-4e05-8eb1-3c222585ccab" />
+
+
+Food inflation jumped from 4% in 2019 to 8% in 2020, reflecting supply chain disruptions. Healthcare rose moderately (7% in 2019, 4% in 2020), while essential household services slowed (4% to 2%). Post-lockdown, 2021 saw stabilization with food at 5% and healthcare at 8%.
 
 
 ### 6. Fuel and Other Category Relationships
 Examines relationships between Fuel and Light and selected categories, including transport, education, food, cereals, and non-alcoholic beverages.
 
-6.1. Fuel vs Non-Alcoholic Beverages (69%): Strong positive correlation. Beverage prices closely track fuel costs, with energy hikes translating into higher beverage inflation, especially in 2021 and 2022.
+##6.1 Fuel vs Non-Alcoholic Beverages (69%): Strong positive correlation. Beverage prices closely track fuel costs, with energy hikes translating into higher beverage inflation, especially in 2021 and 2022.
 
-<img width="943" height="548" alt="image" src="https://github.com/user-attachments/assets/9fe95270-71dc-419d-b2e3-3928ed376ea8" />
-
-6.2.Fuel vs Transport & Communication (66%): Strong positive correlation. Transport costs rise almost in tandem with fuel, reflecting direct dependence on energy prices. Peaks in 2021 and 2022 highlight this linkage.
-
-<img width="1207" height="595" alt="image" src="https://github.com/user-attachments/assets/5d7c90b3-8a2c-4a8e-806b-cb3c58787117" />
-
-6.3.Fuel vs Education (23%): Weak positive correlation. Education costs show steady growth largely independent of fuel volatility, indicating minimal direct influence from energy inflation.
-
-<img width="978" height="571" alt="image" src="https://github.com/user-attachments/assets/35874235-ae5c-458c-9a2c-ba46f494f1f8" />
-
-6.4. Fuel vs Food & Beverages (-20%): Weak negative correlation. Food prices often moved opposite to fuel trends, suggesting supply and demand factors outweighed energy costs in driving food inflation.
-
-<img width="878" height="547" alt="image" src="https://github.com/user-attachments/assets/381622f9-4766-4a5f-b2fc-1414c4334a5b" />
-
-6.5. Fuel vs Cereals & Products (-24%): Inverse Relationship. Rising fuel costs coincided with declining cereal prices, highlighting that staple food inflation was not directly tied to energy fluctuations.
 
 <img width="957" height="550" alt="image" src="https://github.com/user-attachments/assets/0bdcc69c-20ce-44de-aae6-c5c3cb18f5a8" />
 
 
+From 2021 to 2023, fuel and light showed a strong positive 69% correlation with non-alcoholic beverages. Fuel hikes in early 2021 and April 2022 aligned with beverage inflation, while late 2022 onward reflected steady parallel growth, underscoring energy’s significant influence on beverage costs.
+
+
+##6.2 Fuel vs Cereals & Products (-24%): Inverse Relationship. Rising fuel costs coincided with declining cereal prices, highlighting that staple food inflation was not directly tied to energy fluctuations.
+
+
+<img width="878" height="547" alt="image" src="https://github.com/user-attachments/assets/381622f9-4766-4a5f-b2fc-1414c4334a5b" />
+
+
+From 2021 to 2023, fuel and light showed a weak negative correlation with cereals and products, averaging -24%. Rising fuel costs often coincided with declining cereal prices, highlighting an inverse relationship where energy inflation did not directly drive staple food inflation.
+
+
 ### 7. Correlation Analysis
 Uses correlation calculations to evaluate the strength and direction of relationships between selected CPI series.
+
+
 <img width="642" height="372" alt="image" src="https://github.com/user-attachments/assets/b44d9a8d-3702-4a9e-a4a9-ed25b2ad1bfe" />
+
 
 A positive correlation indicates that two series tend to move in the same direction, while a negative correlation indicates that they tend to move in opposite directions. Correlation does not establish causation.
 
