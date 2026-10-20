@@ -156,7 +156,7 @@ Examines relationships between Fuel and Light and selected categories, including
   From 2021 to 2023, fuel and light showed a strong positive 69% correlation with non-alcoholic beverages. Fuel hikes in early 2021 and April 2022 aligned with  beverage inflation, while late 2022 onward reflected steady parallel growth, underscoring energy’s significant influence on beverage costs.
 
 
-  #### 6.2 Fuel vs Cereals & Products (-24%): Inverse Relationship. Rising fuel costs coincided with declining cereal prices, highlighting that staple food inflation was not directly tied to energy fluctuations.
+  #### 6.2 Fuel vs Cereals & Products (-24%): Weak Negative Correlation. Rising fuel costs coincided with declining cereal prices, highlighting that staple food  inflation was not directly tied to energy fluctuations.
   
 
   <img width="878" height="547" alt="image" src="https://github.com/user-attachments/assets/381622f9-4766-4a5f-b2fc-1414c4334a5b" />
