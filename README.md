@@ -1,4 +1,4 @@
-#  CPI Inflation Analysis in India (2013–2023)
+# 📊 CPI Inflation Analysis in India (2013–2023)
 
 <p align="left">
   <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Microsoft Excel" />
@@ -13,191 +13,174 @@
   <img src="https://img.shields.io/badge/Inflation_Trend_Analysis-FFB900?style=for-the-badge&logoColor=black" alt="Inflation Trend Analysis" />
 </p>
 
-##  Project Overview
+## 📌 Project Overview
 
-This project analyzes **Consumer Price Index (CPI) trends in India from January 2013 to May 2023** using Microsoft Excel. It explores changes in price indices across rural, urban, and combined rural–urban sectors and examines how inflation patterns differ across major expenditure categories.
+This project analyzes India's Consumer Price Index (CPI) data using Microsoft Excel to understand price movements across different consumption categories and geographical sectors.
 
-The project uses data cleaning, data transformation, PivotTables, charts, year-wise and month-wise comparisons, pre- and post-COVID analysis, and correlation analysis to identify meaningful patterns in India's consumer price indices.
+The analysis explores year-on-year trends, food inflation, broader consumption categories, pre- and post-COVID comparisons, and correlations between fuel prices and selected categories.
 
-The objective is to understand long-term price movements, identify categories with substantial index increases, and explore relationships between fuel and other expenditure categories.
+The project demonstrates practical skills in data cleaning, data transformation, Excel-based analysis, and economic data interpretation.
 
-##  Project Objectives
+## 🎯 Project Objectives
 
-* Analyze long-term CPI trends in India from 2013 to 2023.
-* Compare CPI movements across rural, urban, and rural–urban combined sectors.
-* Examine inflation patterns across major expenditure categories.
-* Study year-on-year and month-wise variations in CPI indices.
-* Compare food inflation across different months and years.
-* Analyze pre-COVID and post-COVID price index trends.
-* Investigate correlations between fuel and light and other expenditure categories.
-* Present findings through Excel PivotTables, charts, and analytical summaries.
+- Analyze India's CPI trends from 2013 to 2023.
+- Compare Rural, Urban, and Rural + Urban CPI patterns.
+- Examine year-on-year changes in the General Index.
+- Investigate monthly food price patterns.
+- Compare CPI trends before and after COVID-19.
+- Analyze relationships between Fuel and Light and other consumption categories.
+- Calculate correlations between selected CPI series.
+- Generate meaningful insights from historical CPI data.
 
-##  Dataset Description
+## 📂 Dataset Information
 
-The project workbook contains CPI data organized by sector, year, month, and expenditure category.
+The workbook contains monthly CPI observations covering **January 2013 to April 2023**.
 
-**Dataset coverage:**
+### Dataset Dimensions
 
-* **Time period:** January 2013 – May 2023
-* **Original dataset:** 372 observations
-* **Columns:** 30
-* **Sectors:** Rural, Urban, and Rural+Urban
-* **Data format:** Monthly CPI index values
+- **Time Period:** January 2013 – April 2023
+- **Frequency:** Monthly
+- **Geographical Sectors:** Rural, Urban, and Rural + Urban
+- **Observations:** 372 data rows in the original dataset
+- **Consumption Categories:** Multiple food and non-food categories, including cereals, meat and fish, milk, vegetables, fuel and light, transport and communication, education, health, and others.
 
-The workbook also contains a transformed, unpivoted dataset with approximately 10,044 records, making it easier to analyze individual expenditure categories.
+### Important Variables
 
-### Major Variables
+| Variable | Description |
+|---|---|
+| Sector | Geographical classification of the CPI observation |
+| Year | Year of observation |
+| Month | Month of observation |
+| Cereals and Products | CPI index for cereals and related products |
+| Meat and Fish | CPI index for meat and fish |
+| Milk and Products | CPI index for milk and related products |
+| Vegetables | CPI index for vegetables |
+| Fruits | CPI index for fruits |
+| Fuel and Light | CPI index for fuel and light |
+| Transport and Communication | CPI index for transport and communication |
+| Education | CPI index for education |
+| Health | CPI index for health |
+| General Index | Overall CPI index |
 
-| Variable                     | Description                                 |
-| ---------------------------- | ------------------------------------------- |
-| Sector                       | Rural, Urban, or Rural+Urban                |
-| Year                         | Year of observation                         |
-| Month                        | Month of observation                        |
-| General Index                | Overall consumer price index                |
-| Food and Beverages           | CPI index for food and beverage expenditure |
-| Fuel and Light               | CPI index for fuel and lighting expenses    |
-| Health                       | CPI index for healthcare expenditure        |
-| Education                    | CPI index for education-related expenditure |
-| Transport and Communication  | CPI index for transport and communication   |
-| Clothing and Footwear        | CPI index for clothing and footwear         |
-| Household Goods and Services | CPI index for household expenditure         |
+The workbook includes additional consumption categories beyond those listed above.
 
-The dataset includes additional categories such as cereals, meat and fish, eggs, milk, fruits, vegetables, pulses, housing, recreation, personal care, and miscellaneous expenditure.
+**Note:** CPI index values represent price levels relative to a reference period. They should not be confused with inflation rates, which measure percentage changes in prices over time.
 
-**Note:** CPI index values represent price levels relative to a reference base; they should not be interpreted directly as percentage inflation rates. Percentage inflation requires comparing index values across periods.
+## 🗂️ Workbook Structure
 
-##  Tools and Technologies
+The Excel workbook contains 15 worksheets:
 
-* **Microsoft Excel** — Data preparation, analysis, and visualization
-* **Excel PivotTables** — Aggregation and category-wise comparisons
-* **Excel Charts** — Visual representation of CPI trends
-* **Excel Formulas** — Percentage change and correlation calculations
-* **Data Transformation (Unpivoting)** — Restructuring the dataset for category-level analysis
+| No. | Worksheet Name | Purpose |
+|---:|---|---|
+| 1 | Raw Data | Original CPI dataset |
+| 2 | CPI Inflation | Main CPI dataset |
+| 3 | Main | Working dataset for analysis |
+| 4 | CPI Inflation Unpivot | Restructured data for category-wise analysis |
+| 5 | Broader Category Wise Inflation | Analysis of broader consumption categories |
+| 6 | Year On Year Inflation | Year-wise comparison of CPI patterns |
+| 7 | Months Wise Food Inflation | Monthly analysis of food-related categories |
+| 8 | Absolute Inflation | Analysis of CPI index levels |
+| 9 | Pre and Post Covid Inflation | Comparison of CPI patterns across COVID periods |
+| 10 | Fuel vs Transport Correlation | Relationship between fuel and transport and communication |
+| 11 | Fuel vs Education Correlation | Relationship between fuel and education |
+| 12 | Fuel vs Food Correlation | Relationship between fuel and food and beverages |
+| 13 | Fuel vs Cereals Inflation | Relationship between fuel and cereals and products |
+| 14 | Fuel vs Non Alcoholic Inflation | Relationship between fuel and non-alcoholic beverages |
+| 15 | Correlation | Summary of selected correlation calculations |
 
-##  Project Structure
+## 🔍 Analysis Performed
 
-The Excel workbook is organized into the following analytical sheets:
+### 1. Year-on-Year Analysis
+Examines yearly CPI patterns and differences between Rural, Urban, and Rural + Urban sectors.
+<img width="1602" height="672" alt="image" src="https://github.com/user-attachments/assets/21dcff92-65f4-45c2-a261-7e04e6795d5b" />
+<img width="1082" height="580" alt="image" src="https://github.com/user-attachments/assets/87a5d49d-c093-47a7-89cb-9aea06828d9e" />
 
-| Sheet                             | Purpose                                                   |
-| --------------------------------- | --------------------------------------------------------- |
-| `Raw Data`                        | Original CPI dataset                                      |
-| `CPI Inflation`                   | CPI data prepared for analysis                            |
-| `Main`                            | Main working dataset                                      |
-| `CPI Inflation Unpivot`           | Restructured data for category-level analysis             |
-| `Broader Category Wise Inflation` | Distribution of observations across broader categories    |
-| `Year On Year Inflation`          | Annual CPI comparisons across sectors                     |
-| `Months Wise Food Inflation`      | Monthly comparisons of selected food categories           |
-| `Absolute Inflation`              | Category-wise CPI index comparisons                       |
-| `Pre and Post Covid Inflation`    | Comparison of selected indices across the COVID-19 period |
-| `Fuel vs Transport Correlation`   | Relationship between fuel and transport indices           |
-| `Fuel vs Education Correlation`   | Relationship between fuel and education indices           |
-| `Fuel vs Food Correlation`        | Relationship between fuel and food indices                |
-| `Fuel vs Household Correlation`   | Relationship between fuel and household indices           |
-| `Fuel vs Clothing Inflation`      | Relationship between fuel and clothing indices            |
-| `Fuel vs Health Inflation`        | Relationship between fuel and health indices              |
-| `Fuel vs Recreation Inflation`    | Relationship between fuel and recreation indices          |
-| `Fuel vs Fuel`                    | Comparison of fuel and light with non-alcoholic beverages |
+### 2. Broader Category Analysis
+Organizes individual consumption items into broader categories to investigate differences in price movements.
+<img width="1133" height="652" alt="image" src="https://github.com/user-attachments/assets/159638fe-e62f-4712-82d1-13f4245abe5d" />
+<img width="588" height="382" alt="image" src="https://github.com/user-attachments/assets/ebe2b2cc-f3c3-4550-ac17-7a03c9d5b715" />
 
-##  Analysis Performed
+### 3. Monthly Food Inflation Analysis
+Explores monthly variations in food-related CPI categories, including cereals, milk, fruits, vegetables, and pulses.
+<img width="1876" height="551" alt="image" src="https://github.com/user-attachments/assets/bd63e4fb-06e3-4a55-91e2-08e1824be16d" />
+<img width="1192" height="623" alt="image" src="https://github.com/user-attachments/assets/aea8ae3f-96fd-4fe1-8f45-c1febffea981" />
 
-### 1. Year-on-Year CPI Analysis
+### 4. Absolute CPI Analysis
+Examines CPI index levels across consumption categories to understand how price levels vary over the study period.
+<img width="1845" height="493" alt="image" src="https://github.com/user-attachments/assets/3f895d2e-d62c-4298-8b34-92178713b7c6" />
+<img width="1145" height="610" alt="image" src="https://github.com/user-attachments/assets/4f7bef90-687f-4987-a2c2-1d9cfa346ad9" />
 
-Compared annual average general index values across rural, urban, and combined sectors to understand long-term changes in consumer price levels.
+### 5. Pre- and Post-COVID Comparison
+Investigates changes in CPI patterns before, during, and after the COVID-19 disruption.
 
-### 2. Category-Wise Analysis
+### 6. Fuel and Other Category Relationships
+Examines relationships between Fuel and Light and selected categories, including transport, education, food, cereals, and non-alcoholic beverages.
 
-Examined CPI movements across food, clothing, education, fuel and light, health, transport, housing, and other expenditure categories.
+### 7. Correlation Analysis
+Uses correlation calculations to evaluate the strength and direction of relationships between selected CPI series.
 
-### 3. Monthly Food Index Analysis
+A positive correlation indicates that two series tend to move in the same direction, while a negative correlation indicates that they tend to move in opposite directions. Correlation does not establish causation.
 
-Compared monthly index values for milk and products, vegetables, fruits, and pulses to identify differences in their price movements.
+## 🛠️ Tools and Technologies
 
-### 4. Pre- and Post-COVID Comparison
+- **Microsoft Excel** — Data analysis and reporting
+- **Excel Formulas** — Calculations and correlation analysis
+- **Data Transformation** — Restructuring data into a category-level format
+- **PivotTables** — Summarization and comparison of CPI data
+- **GitHub** — Project hosting and version control
 
-Examined the trends in food and beverages, health, and household goods and services across the years surrounding the COVID-19 period.
+## 📈 Key Takeaways
 
-### 5. Fuel Correlation Analysis
+This project provides a framework for investigating:
 
-Investigated the relationships between changes in fuel and light indices and selected expenditure categories using correlation analysis.
+- Long-term changes in India's consumer price levels.
+- Differences between Rural and Urban CPI patterns.
+- Variations in food and non-food category indices.
+- Changes in price patterns across pre- and post-COVID periods.
+- Relationships between fuel prices and selected consumption categories.
 
-## 📈 Key Findings
+The conclusions should be based on the actual calculations and charts in the workbook rather than assuming that every category follows the same trend.
 
-The following observations are based on the values and correlation coefficients displayed in the workbook.
+## 🚀 How to Use This Project
 
-* **Long-term increase in CPI:** The annual average general index rises over the years covered by the analysis, indicating a substantial increase in consumer price levels.
-* **Differences across sectors:** Rural and urban CPI index levels vary by year and expenditure category, highlighting the importance of sector-wise comparisons.
-* **Food category representation:** Food accounts for approximately 44.44% of the observations in the unpivoted dataset, making it a major component of the project's category-level analysis.
-* **Monthly variation in food indices:** Vegetables, fruits, milk, and pulses show different monthly and yearly index patterns.
-* **Pre- and post-COVID trends:** The workbook enables comparisons of selected expenditure categories before and after the onset of COVID-19, although these comparisons alone do not establish that COVID-19 caused the observed changes.
-* **Fuel and transport correlation:** The workbook reports a correlation coefficient of approximately **0.66**, indicating a positive relationship in the analyzed series.
-* **Fuel and recreation correlation:** The reported coefficient is approximately **0.58**, indicating a moderate positive relationship.
-* **Fuel and clothing correlation:** The reported coefficient is approximately **0.42**, indicating a moderate positive relationship.
-* **Fuel and health correlation:** The reported coefficient is approximately **0.40**, indicating a moderate positive relationship.
-* **Fuel and household expenditure correlation:** The reported coefficient is approximately **0.31**, indicating a relatively weak positive relationship.
-* **Fuel and education correlation:** The reported coefficient is approximately **0.23**, indicating a weak positive relationship.
-* **Fuel and food correlation:** The reported coefficient is approximately **-0.20**, indicating a weak negative relationship in the analyzed series.
+1. Download or clone this repository.
+2. Open `Whole CPI Inflation Project.xlsx` in Microsoft Excel.
+3. Navigate through the 15 worksheets.
+4. Review the original data and transformed dataset.
+5. Explore the analysis sheets to compare CPI categories, sectors, and time periods.
+6. Review the correlation calculations and charts to understand the relationships being investigated.
 
-*Correlation coefficients describe statistical relationships, not causation. Their interpretation depends on the variables, time periods, and calculation method used.*
+Microsoft Excel is recommended for compatibility with PivotTables, formulas, and other workbook features.
 
-##  Business and Economic Insights
+## 📁 Repository Structure
 
-This project demonstrates how CPI data can be used to:
+```text
+CPI-Inflation-Analysis/
+│
+├── README.md
+├── Whole CPI Inflation Project.xlsx
+└── screenshots/
+    ├── dashboard.png
+    └── analysis.png
+```
 
-* Monitor changes in consumer price levels over time.
-* Compare price movements between rural and urban populations.
-* Identify expenditure categories that deserve closer monitoring.
-* Explore relationships between different consumer expenditure indices.
-* Support economic reporting and data-driven decision-making.
-* Communicate complex economic data through charts and summary tables.
+The `screenshots/` folder is optional. Add screenshots of your actual Excel analysis or charts to improve the presentation of your GitHub repository.
 
-##  How to Explore the Project
+## ⚠️ Limitations
 
-1. Clone or download this GitHub repository.
-2. Open the Excel workbook in Microsoft Excel.
-3. Start with the `Raw Data` sheet to understand the dataset.
-4. Review the `CPI Inflation Unpivot` sheet to understand the transformed data.
-5. Explore the PivotTables and charts in the analytical sheets.
-6. Compare sector-wise trends, monthly patterns, pre- and post-COVID indices, and correlation results.
+- CPI index values are not equivalent to inflation rates.
+- Correlation does not prove causation.
+- Pre- and post-COVID findings depend on the periods and categories selected.
+- Results depend on the accuracy and completeness of the underlying dataset.
+- Correlation calculations should be checked for formula errors and consistent date alignment before interpreting the results.
 
-##  Limitations
+## 👨‍💻 Author
 
-* The analysis is limited to the data and time period available in the workbook.
-* CPI index movements do not necessarily represent the same rate of inflation across all categories.
-* Correlation does not imply causation.
-* A pre- and post-COVID comparison does not isolate the causal effect of the pandemic.
-* Results depend on the accuracy of the source data and the calculations used in the workbook.
-
-##  Future Improvements
-
-* Create an interactive Power BI dashboard.
-* Add year-on-year and month-on-month inflation rate calculations.
-* Develop a more detailed rural-versus-urban comparison.
-* Add statistical significance tests and time-series analysis.
-* Extend the analysis with newer CPI observations.
-* Include a data source citation and a separate data dictionary.
-
-##  Skills Demonstrated
-
-* Data Analysis
-* Data Cleaning and Transformation
-* Microsoft Excel
-* PivotTables and PivotCharts
-* Data Visualization
-* Exploratory Data Analysis (EDA)
-* Correlation Analysis
-* Economic Data Interpretation
-* Analytical Reporting
-
-##  Disclaimer
-
-This project is intended for educational and analytical purposes. The findings describe patterns in the CPI index data included in the workbook and should not be interpreted as official economic forecasts or proof of causal relationships.
-
-## Conclusion
-
-The CPI Inflation Analysis project demonstrates how Microsoft Excel can be used to explore long-term consumer price index movements, compare rural and urban sectors, study expenditure categories, and investigate relationships between selected price indices.
-
-It provides a foundation for further economic analysis and demonstrates practical data analytics skills through data transformation, PivotTables, charts, and statistical comparisons.
+**Project:** CPI Inflation Analysis in India  
+**Domain:** Data Analytics | Economic Analysis  
+**Tool:** Microsoft Excel  
+**Period Covered:** 2013–2023
 
 ---
 
-**If you find this project useful, consider giving the repository a star!** ⭐
+⭐ If you find this project useful, consider starring the repository!
