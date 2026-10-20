@@ -117,17 +117,36 @@ Investigates changes in CPI patterns before, during, and after the COVID-19 disr
 
 ### 6. Fuel and Other Category Relationships
 Examines relationships between Fuel and Light and selected categories, including transport, education, food, cereals, and non-alcoholic beverages.
+
+6.1. Fuel vs Non-Alcoholic Beverages (69%): Strong positive correlation. Beverage prices closely track fuel costs, with energy hikes translating into higher beverage inflation, especially in 2021 and 2022.
+<img width="1888" height="49" alt="image" src="https://github.com/user-attachments/assets/eb14411e-2203-49de-bc13-b2a122925e47" />
+
 <img width="943" height="548" alt="image" src="https://github.com/user-attachments/assets/9fe95270-71dc-419d-b2e3-3928ed376ea8" />
+
+6.2.Fuel vs Transport & Communication (66%): Strong positive correlation. Transport costs rise almost in tandem with fuel, reflecting direct dependence on energy prices. Peaks in 2021 and 2022 highlight this linkage.
+<img width="2032" height="49" alt="image" src="https://github.com/user-attachments/assets/135b13dc-c7ee-48fd-b251-94c0fdc29649" />
+
 <img width="1207" height="595" alt="image" src="https://github.com/user-attachments/assets/5d7c90b3-8a2c-4a8e-806b-cb3c58787117" />
+
+6.3.Fuel vs Education (23%): Weak positive correlation. Education costs show steady growth largely independent of fuel volatility, indicating minimal direct influence from energy inflation.
+<img width="1761" height="49" alt="image" src="https://github.com/user-attachments/assets/3e42b04e-9dc4-4735-9ef2-b9e6c86f809e" />
+
 <img width="978" height="571" alt="image" src="https://github.com/user-attachments/assets/35874235-ae5c-458c-9a2c-ba46f494f1f8" />
+
+6.4. Fuel vs Food & Beverages (-20%): Weak negative correlation. Food prices often moved opposite to fuel trends, suggesting supply and demand factors outweighed energy costs in driving food inflation.
+<img width="1918" height="49" alt="image" src="https://github.com/user-attachments/assets/96e83db2-51c2-487c-8b06-52de210314c2" />
+
 <img width="878" height="547" alt="image" src="https://github.com/user-attachments/assets/381622f9-4766-4a5f-b2fc-1414c4334a5b" />
+
+6.5. Fuel vs Cereals & Products (-24%): Inverse Relationship. Rising fuel costs coincided with declining cereal prices, highlighting that staple food inflation was not directly tied to energy fluctuations.
+<img width="1852" height="49" alt="image" src="https://github.com/user-attachments/assets/5e1c8ae0-d5c7-4aaf-ada3-c80aeb91316a" />
+
 <img width="957" height="550" alt="image" src="https://github.com/user-attachments/assets/0bdcc69c-20ce-44de-aae6-c5c3cb18f5a8" />
 
 
 ### 7. Correlation Analysis
 Uses correlation calculations to evaluate the strength and direction of relationships between selected CPI series.
-<img width="628" height="296" alt="image" src="https://github.com/user-attachments/assets/09831965-9339-4317-b1d5-408caab2536b" />
-
+<img width="642" height="372" alt="image" src="https://github.com/user-attachments/assets/b44d9a8d-3702-4a9e-a4a9-ed25b2ad1bfe" />
 
 A positive correlation indicates that two series tend to move in the same direction, while a negative correlation indicates that they tend to move in opposite directions. Correlation does not establish causation.
 
