@@ -120,7 +120,7 @@ Insights: Inflation peaked in 2022, reaching 6.8% in Rural, 6.6% in Rural+Urban,
 ### 3. Monthly Food Inflation Analysis
 Explores monthly variations in food-related CPI categories, including cereals, milk, fruits, vegetables, and pulses.
 
-<img width="1192" height="623" alt="image" src="https://github.com/user-attachments/assets/aea8ae3f-96fd-4fe1-8f45-c1febffea981" />
+<img width="1027" height="522" alt="image" src="https://github.com/user-attachments/assets/3072662b-2192-4d9d-9e81-ae88e27fdcd4" />
 
 
 Vegetable prices showed the sharpest fluctuation, falling 12.7% in Dec-22 before rebounding to 3.5% in May-23. Fruit prices peaked at 7.1% in Feb-23, indicating volatility. Milk inflation reached 1.5% in Feb-23, while pulses rose 1.2% in May-23, highlighting uneven food-price movements.
