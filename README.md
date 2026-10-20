@@ -32,6 +32,10 @@ The project demonstrates practical skills in data cleaning, data transformation,
 - Calculate correlations between selected CPI series.
 - Generate meaningful insights from historical CPI data.
 
+## Build an interactive Excel report with slicers for year, month, sector, and category.
+<img width="461" height="151" alt="image" src="https://github.com/user-attachments/assets/bccb4e35-43e7-4595-b342-740190b9e4bb" />
+
+
 ## 📂 Dataset Information
 
 The workbook contains monthly CPI observations covering **January 2013 to April 2023**.
@@ -92,32 +96,38 @@ The Excel workbook contains 15 worksheets:
 
 ### 1. Year-on-Year Analysis
 Examines yearly CPI patterns and differences between Rural, Urban, and Rural + Urban sectors.
-<img width="1602" height="672" alt="image" src="https://github.com/user-attachments/assets/21dcff92-65f4-45c2-a261-7e04e6795d5b" />
 <img width="1082" height="580" alt="image" src="https://github.com/user-attachments/assets/87a5d49d-c093-47a7-89cb-9aea06828d9e" />
 
 ### 2. Broader Category Analysis
 Organizes individual consumption items into broader categories to investigate differences in price movements.
-<img width="1133" height="652" alt="image" src="https://github.com/user-attachments/assets/159638fe-e62f-4712-82d1-13f4245abe5d" />
 <img width="588" height="382" alt="image" src="https://github.com/user-attachments/assets/ebe2b2cc-f3c3-4550-ac17-7a03c9d5b715" />
 
 ### 3. Monthly Food Inflation Analysis
 Explores monthly variations in food-related CPI categories, including cereals, milk, fruits, vegetables, and pulses.
-<img width="1876" height="551" alt="image" src="https://github.com/user-attachments/assets/bd63e4fb-06e3-4a55-91e2-08e1824be16d" />
 <img width="1192" height="623" alt="image" src="https://github.com/user-attachments/assets/aea8ae3f-96fd-4fe1-8f45-c1febffea981" />
 
 ### 4. Absolute CPI Analysis
 Examines CPI index levels across consumption categories to understand how price levels vary over the study period.
-<img width="1845" height="493" alt="image" src="https://github.com/user-attachments/assets/3f895d2e-d62c-4298-8b34-92178713b7c6" />
 <img width="1145" height="610" alt="image" src="https://github.com/user-attachments/assets/4f7bef90-687f-4987-a2c2-1d9cfa346ad9" />
 
 ### 5. Pre- and Post-COVID Comparison
 Investigates changes in CPI patterns before, during, and after the COVID-19 disruption.
+<img width="1048" height="606" alt="image" src="https://github.com/user-attachments/assets/6007504f-3b0e-4e05-8eb1-3c222585ccab" />
+
 
 ### 6. Fuel and Other Category Relationships
 Examines relationships between Fuel and Light and selected categories, including transport, education, food, cereals, and non-alcoholic beverages.
+<img width="943" height="548" alt="image" src="https://github.com/user-attachments/assets/9fe95270-71dc-419d-b2e3-3928ed376ea8" />
+<img width="1207" height="595" alt="image" src="https://github.com/user-attachments/assets/5d7c90b3-8a2c-4a8e-806b-cb3c58787117" />
+<img width="978" height="571" alt="image" src="https://github.com/user-attachments/assets/35874235-ae5c-458c-9a2c-ba46f494f1f8" />
+<img width="878" height="547" alt="image" src="https://github.com/user-attachments/assets/381622f9-4766-4a5f-b2fc-1414c4334a5b" />
+<img width="957" height="550" alt="image" src="https://github.com/user-attachments/assets/0bdcc69c-20ce-44de-aae6-c5c3cb18f5a8" />
+
 
 ### 7. Correlation Analysis
 Uses correlation calculations to evaluate the strength and direction of relationships between selected CPI series.
+<img width="628" height="296" alt="image" src="https://github.com/user-attachments/assets/09831965-9339-4317-b1d5-408caab2536b" />
+
 
 A positive correlation indicates that two series tend to move in the same direction, while a negative correlation indicates that they tend to move in opposite directions. Correlation does not establish causation.
 
