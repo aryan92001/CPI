@@ -97,7 +97,7 @@ The Excel workbook contains 15 worksheets:
 ### 1. Broader Category Analysis
 Organizes individual consumption items into broader categories to investigate differences in price movements.
 
-<img width="588" height="382" alt="image" src="https://github.com/user-attachments/assets/ebe2b2cc-f3c3-4550-ac17-7a03c9d5b715" />
+<img width="507" height="323" alt="image" src="https://github.com/user-attachments/assets/1b5c4c37-ef4e-4dc5-8cb9-4cfe03bcf1c5" />
 
 
 In this visual representation, Food has the highest Inflation rate with 44.44% which is followed by Luxury with 14.81% and Clothing with 11.11% within broader categories while housing contributes with 7.41% and rest of all contributes of 3.70% to inflate the data.
@@ -106,10 +106,10 @@ In this visual representation, Food has the highest Inflation rate with 44.44% w
 ### 2. Year-on-Year Analysis
 Examines yearly CPI patterns and differences between Rural, Urban, and Rural + Urban sectors.
 
-<img width="1082" height="580" alt="image" src="https://github.com/user-attachments/assets/87a5d49d-c093-47a7-89cb-9aea06828d9e" />
+<img width="695" height="355" alt="image" src="https://github.com/user-attachments/assets/c6683b99-2c27-49d4-851e-4a012bafc1d9" />
 
 
-Insights: Inflation peaked in 2022, reaching 6.8% in Rural, 6.6% in Rural+Urban, and 6.3% in Urban areas. In 2023, inflation eased significantly across all sectors, indicating reduced inflationary pressure.
+*Insights*: Inflation peaked in 2022, reaching 6.8% in Rural, 6.6% in Rural+Urban, and 6.3% in Urban areas. In 2023, inflation eased significantly across all sectors, indicating reduced inflationary pressure.
 
 1. Russia–Ukraine war: Disrupted global supplies and raised commodity prices.
 2. Food shortages: Extreme heat and uneven rainfall damaged crops, increasing food prices.
@@ -220,5 +220,7 @@ Microsoft Excel is recommended for compatibility with PivotTables, formulas, and
 Aspiring Data Analyst | Excel | Data Visualisations | Data Analytics
 
 LinkedIn : www.linkedin.com/in/aryan-kumar-4a956b341
+
 Email ID : aryan08092001@gmail.com
+
 Github ID : https://github.com/aryan92001
