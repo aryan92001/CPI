@@ -215,7 +215,10 @@ Microsoft Excel is recommended for compatibility with PivotTables, formulas, and
 
 ## Author
 
-**Project:** CPI Inflation Analysis in India  
-**Domain:** Data Analytics | Economic Analysis  
-**Tool:** Microsoft Excel  
-**Period Covered:** 2013–2023
+**Aryan Kumar**
+
+Aspiring Data Analyst | Excel | Data Visualisations | Data Analytics
+
+LinkedIn : www.linkedin.com/in/aryan-kumar-4a956b341
+Email ID : aryan08092001@gmail.com
+Github ID : https://github.com/aryan92001
