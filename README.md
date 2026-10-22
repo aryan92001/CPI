@@ -33,6 +33,7 @@ The project demonstrates practical skills in data cleaning, data transformation,
 - Generate meaningful insights from historical CPI data.
 
 ## Build an interactive Excel report with slicers for year, month, sector, and category.
+
 <img width="461" height="151" alt="image" src="https://github.com/user-attachments/assets/bccb4e35-43e7-4595-b342-740190b9e4bb" />
 
 
