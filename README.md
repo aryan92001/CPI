@@ -1,36 +1,16 @@
 # CPI Inflation Analysis in India (2013–2023)
 
 <p align="left">
-  <p align="center">
-  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Microsoft Excel" width="800" style="max-width: 100%; height: auto;" />
-</p>
-  <p align="center">
-  <img src="https://img.shields.io/badge/Data_Cleaning-4472C4?style=for-the-badge&logoColor=white" alt="Data Cleaning" width="800" style="max-width: 100%; height: auto;" />
-</p>
-  <p align="center">
-  <img src="https://img.shields.io/badge/Data_Transformation-7030A0?style=for-the-badge&logoColor=white" alt="Data Transformation" width="800" style="max-width: 100%; height: auto;" />
-</p>
-  <p align="center">
-  <img src="https://img.shields.io/badge/Pivot_Tables-00A6A6?style=for-the-badge&logoColor=white" alt="Pivot Tables" width="800" style="max-width: 100%; height: auto;" />
-</p>
-  <p align="center">
-  <img src="https://img.shields.io/badge/Pivot_Charts-ED7D31?style=for-the-badge&logoColor=white" alt="Pivot Charts" width="800" style="max-width: 100%; height: auto;" />
-</p>
-  <p align="center">
-  <img src="https://img.shields.io/badge/Data_Visualization-8E44AD?style=for-the-badge&logoColor=white" alt="Data Visualization" width="800" style="max-width: 100%; height: auto;" />
-</p>
-  <p align="center">
-  <img src="https://img.shields.io/badge/Statistical_Analysis-2E75B6?style=for-the-badge&logoColor=white" alt="Statistical Analysis" width="800" style="max-width: 100%; height: auto;" />
-</p>
-  <p align="center">
-  <img src="https://img.shields.io/badge/Correlation_Analysis-C00000?style=for-the-badge&logoColor=white" alt="Correlation Analysis" width="800" style="max-width: 100%; height: auto;" />
-</p>
-  <p align="center">
-  <img src="https://img.shields.io/badge/Time_Series_Analysis-548235?style=for-the-badge&logoColor=white" alt="Time Series Analysis" width="800" style="max-width: 100%; height: auto;" />
-</p>
-  <p align="center">
-  <img src="https://img.shields.io/badge/Inflation_Trend_Analysis-FFB900?style=for-the-badge&logoColor=black" alt="Inflation Trend Analysis" width="800" style="max-width: 100%; height: auto;" />
-</p>
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Microsoft Excel" />
+  <img src="https://img.shields.io/badge/Data_Cleaning-4472C4?style=for-the-badge&logoColor=white" alt="Data Cleaning" />
+  <img src="https://img.shields.io/badge/Data_Transformation-7030A0?style=for-the-badge&logoColor=white" alt="Data Transformation" />
+  <img src="https://img.shields.io/badge/Pivot_Tables-00A6A6?style=for-the-badge&logoColor=white" alt="Pivot Tables" />
+  <img src="https://img.shields.io/badge/Pivot_Charts-ED7D31?style=for-the-badge&logoColor=white" alt="Pivot Charts" />
+  <img src="https://img.shields.io/badge/Data_Visualization-8E44AD?style=for-the-badge&logoColor=white" alt="Data Visualization" />
+  <img src="https://img.shields.io/badge/Statistical_Analysis-2E75B6?style=for-the-badge&logoColor=white" alt="Statistical Analysis" />
+  <img src="https://img.shields.io/badge/Correlation_Analysis-C00000?style=for-the-badge&logoColor=white" alt="Correlation Analysis" />
+  <img src="https://img.shields.io/badge/Time_Series_Analysis-548235?style=for-the-badge&logoColor=white" alt="Time Series Analysis" />
+  <img src="https://img.shields.io/badge/Inflation_Trend_Analysis-FFB900?style=for-the-badge&logoColor=black" alt="Inflation Trend Analysis" />
 </p>
 
 ## Project Overview
@@ -40,19 +20,6 @@ This project analyzes India's Consumer Price Index (CPI) data using Microsoft Ex
 The analysis explores year-on-year trends, food inflation, broader consumption categories, pre- and post-COVID comparisons, and correlations between fuel prices and selected categories.
 
 The project demonstrates practical skills in data cleaning, data transformation, Excel-based analysis, and economic data interpretation.
-
-## ⭐ Main Highlights
-
-- **Study period:** Monthly CPI data from **January 2013 to April 2023**.
-- **Dataset coverage:** **372 original data rows** across Rural, Urban, and Rural + Urban sectors.
-- **Highest year-on-year inflation in the reported comparison:** **2022**, at 6.8% Rural, 6.6% Rural + Urban, and 6.3% Urban.
-- **Broader category finding:** Food accounts for **44.44%** in the project's broader-category analysis.
-- **COVID-19 comparison:** Food inflation increased from **4% in 2019 to 8% in 2020**, as reported in the workbook analysis.
-- **Correlation examples:** Fuel and Light has a **69% positive correlation** with non-alcoholic beverages and a **-24% negative correlation** with cereals and products in the selected analysis.
-- **Excel workflow:** Data cleaning, transformation, PivotTables, PivotCharts, visual analysis, and correlation calculations.
-- **Important interpretation note:** CPI index levels and inflation rates are different measures; correlation does not establish causation.
-
-> **Note:** These highlights reproduce the findings stated in the project material. Check the underlying formulas, time periods, and chart calculations before using them as formal economic conclusions.
 
 ## Objectives
 
@@ -65,13 +32,9 @@ The project demonstrates practical skills in data cleaning, data transformation,
 - Calculate correlations between selected CPI series.
 - Generate meaningful insights from historical CPI data.
 
-## Interactive Excel Report
+## Build an interactive Excel report with slicers for year, month, sector, and category.
 
-The workbook is intended to support exploration with slicers for **year, month, sector, and category**.
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/bccb4e35-43e7-4595-b342-740190b9e4bb" alt="image" width="800" style="max-width: 100%; height: auto;" />
-</p>
+<img width="461" height="151" alt="image" src="https://github.com/user-attachments/assets/bccb4e35-43e7-4595-b342-740190b9e4bb" />
 
 
 ## Dataset Information
@@ -130,55 +93,24 @@ The Excel workbook contains 15 worksheets:
 | 14 | Fuel vs Non Alcoholic Inflation | Relationship between fuel and non-alcoholic beverages |
 | 15 | Correlation | Summary of selected correlation calculations |
 
-### Suggested Repository Structure
-
-```text
-CPI-Inflation-Analysis-India/
-├── README.md
-├── Whole CPI Inflation Project.xlsx
-├── images/
-│   ├── dashboard-overview.png
-│   ├── broader-category-analysis.png
-│   ├── year-on-year-analysis.png
-│   ├── monthly-food-inflation.png
-│   ├── absolute-cpi-analysis.png
-│   ├── pre-post-covid-comparison.png
-│   ├── fuel-vs-non-alcoholic-beverages.png
-│   ├── fuel-vs-cereals.png
-│   └── correlation-summary.png
-└── docs/
-    └── data-dictionary.md
-```
-
-- `README.md` — project overview, key findings, workbook guide, and instructions.
-- `Whole CPI Inflation Project.xlsx` — the Excel workbook containing the 15 worksheets described above.
-- `images/` — consistently sized screenshots exported from the workbook for the README.
-- `docs/data-dictionary.md` — optional reference for CPI fields, sector labels, units, and calculation definitions.
-
-*This is a suggested structure based on the workbook described here; create the folders and use these filenames only if you add the corresponding files to your repository.*
-
 ## Analysis Performed
 
 ### 1. Broader Category Analysis
 Organizes individual consumption items into broader categories to investigate differences in price movements.
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/1b5c4c37-ef4e-4dc5-8cb9-4cfe03bcf1c5" alt="image" width="800" style="max-width: 100%; height: auto;" />
-</p>
+<img width="507" height="323" alt="image" src="https://github.com/user-attachments/assets/1b5c4c37-ef4e-4dc5-8cb9-4cfe03bcf1c5" />
 
 
-In this visual representation, **Food has the highest share at 44.44%**, followed by **Luxury (14.81%)** and **Clothing (11.11%)**. Housing contributes **7.41%**, while each of the remaining categories contributes **3.70%**, according to the project's analysis.
+In this visual representation, Food has the highest Inflation rate with 44.44% which is followed by Luxury with 14.81% and Clothing with 11.11% within broader categories while housing contributes with 7.41% and rest of all contributes of 3.70% to inflate the data.
 
 
 ### 2. Year-on-Year Analysis
 Examines yearly CPI patterns and differences between Rural, Urban, and Rural + Urban sectors.
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/c6683b99-2c27-49d4-851e-4a012bafc1d9" alt="image" width="800" style="max-width: 100%; height: auto;" />
-</p>
+<img width="695" height="355" alt="image" src="https://github.com/user-attachments/assets/c6683b99-2c27-49d4-851e-4a012bafc1d9" />
 
 
-**Key insight:** Inflation peaked in **2022** at **6.8% in Rural**, **6.6% in Rural + Urban**, and **6.3% in Urban** areas. The project reports that inflation eased in 2023; note that the dataset ends in April 2023.
+*Insights*: Inflation peaked in 2022, reaching 6.8% in Rural, 6.6% in Rural+Urban, and 6.3% in Urban areas. In 2023, inflation eased significantly across all sectors, indicating reduced inflationary pressure.
 
 1. Russia–Ukraine war: Disrupted global supplies and raised commodity prices.
 2. Food shortages: Extreme heat and uneven rainfall damaged crops, increasing food prices.
@@ -189,34 +121,28 @@ Examines yearly CPI patterns and differences between Rural, Urban, and Rural + U
 ### 3. Monthly Food Inflation Analysis
 Explores monthly variations in food-related CPI categories, including cereals, milk, fruits, vegetables, and pulses.
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/347d6d14-4cbc-484d-8a68-477640bc2ec8" alt="image" width="800" style="max-width: 100%; height: auto;" />
-</p>
+<img width="882" height="487" alt="image" src="https://github.com/user-attachments/assets/347d6d14-4cbc-484d-8a68-477640bc2ec8" />
 
 
-**Key insight:** Vegetable prices showed the sharpest fluctuation, falling **12.7% in Dec-22** before rebounding to **3.5% in May-23**. Fruit prices peaked at **7.1% in Feb-23**. Milk inflation reached **1.5% in Feb-23**, while pulses rose **1.2% in May-23**.
+Vegetable prices showed the sharpest fluctuation, falling 12.7% in Dec-22 before rebounding to 3.5% in May-23. Fruit prices peaked at 7.1% in Feb-23, indicating volatility. Milk inflation reached 1.5% in Feb-23, while pulses rose 1.2% in May-23, highlighting uneven food-price movements.
 
 
 ### 4. Absolute CPI Analysis
 Examines CPI index levels across consumption categories to understand how price levels vary over the study period.
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/943a3c19-ef43-4a1e-9ab5-0e11ce973d82" alt="image" width="800" style="max-width: 100%; height: auto;" />
-</p>
+<img width="803" height="432" alt="image" src="https://github.com/user-attachments/assets/943a3c19-ef43-4a1e-9ab5-0e11ce973d82" />
 
 
-**Key insight:** From 2022–2023, vegetable inflation fell **13%** across Rural, Rural + Urban, and Urban sectors. Spices recorded the highest increase (**12%** in Rural and combined areas; **11%** in Urban areas), while oils and fats declined **8%, 7%, and 5%**, respectively.
+From 2022–2023, vegetable inflation fell 13% across rural, combined, and urban sectors, marking the steepest decline. Spices recorded the highest increase, rising 12% in rural and combined areas and 11% in urban areas. Oils and fats declined 8%, 7%, and 5%, respectively, indicating divergent food-price trends.
 
 
 ### 5. Pre- and Post-COVID Comparison
 Investigates changes in CPI patterns before, during, and after the COVID-19 disruption.
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/4cf5ebd0-e731-41f3-b236-6512af567d92" alt="image" width="800" style="max-width: 100%; height: auto;" />
-</p>
+<img width="778" height="420" alt="image" src="https://github.com/user-attachments/assets/4cf5ebd0-e731-41f3-b236-6512af567d92" />
 
 
-**Key insight:** Food inflation rose from **4% in 2019 to 8% in 2020**, consistent with supply-chain disruption during the pandemic. The project reports healthcare at **7% in 2019 and 4% in 2020**, while essential household services slowed from **4% to 2%**. In 2021, food was **5%** and healthcare **8%**.
+Food inflation jumped from 4% in 2019 to 8% in 2020, reflecting supply chain disruptions. Healthcare rose moderately (7% in 2019, 4% in 2020), while essential household services slowed (4% to 2%). Post-lockdown, 2021 saw stabilization with food at 5% and healthcare at 8%.
 
 
 ### 6. Fuel and Other Category Relationships
@@ -224,32 +150,26 @@ Examines relationships between Fuel and Light and selected categories, including
 
   #### 6.1 Fuel vs Non-Alcoholic Beverages (69%): Strong positive correlation. Beverage prices closely track fuel costs, with energy hikes translating into higher   beverage inflation, especially in 2021 and 2022.
 
-  <p align="center">
-  <img src="https://github.com/user-attachments/assets/3dabd0a9-4f26-47f9-abf8-f547c6cb9644" alt="image" width="800" style="max-width: 100%; height: auto;" />
-</p>
+  <img width="703" height="377" alt="image" src="https://github.com/user-attachments/assets/3dabd0a9-4f26-47f9-abf8-f547c6cb9644" />
 
 
-  **Key insight:** From 2021 to 2023, Fuel and Light showed a **strong positive correlation of 69%** with non-alcoholic beverages. Fuel hikes in early 2021 and April 2022 aligned with  beverage inflation, while late 2022 onward reflected steady parallel growth, underscoring energy’s significant influence on beverage costs.
+  From 2021 to 2023, fuel and light showed a strong positive 69% correlation with non-alcoholic beverages. Fuel hikes in early 2021 and April 2022 aligned with  beverage inflation, while late 2022 onward reflected steady parallel growth, underscoring energy’s significant influence on beverage costs.
 
 
   #### 6.2 Fuel vs Cereals & Products (-24%): Weak Negative Correlation. Rising fuel costs coincided with declining cereal prices, highlighting that staple food  inflation was not directly tied to energy fluctuations.
   
 
-  <p align="center">
-  <img src="https://github.com/user-attachments/assets/9458c231-9fb3-4e87-8416-378150f6688d" alt="image" width="800" style="max-width: 100%; height: auto;" />
-</p>
+  <img width="688" height="376" alt="image" src="https://github.com/user-attachments/assets/9458c231-9fb3-4e87-8416-378150f6688d" />
 
 
-  **Key insight:** From 2021 to 2023, Fuel and Light showed a **weak negative correlation of -24%** with cereals and products. Rising fuel costs often coincided with declining   cereal prices, highlighting an inverse relationship where energy inflation did not directly drive staple food inflation.
+  From 2021 to 2023, fuel and light showed a weak negative correlation with cereals and products, averaging -24%. Rising fuel costs often coincided with declining   cereal prices, highlighting an inverse relationship where energy inflation did not directly drive staple food inflation.
 
 
 ### 7. Correlation Analysis
 Uses correlation calculations to evaluate the strength and direction of relationships between selected CPI series.
 
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/fe1e52fe-0fc8-490b-8b0d-d22be480c6d5" alt="image" width="800" style="max-width: 100%; height: auto;" />
-</p>
+<img width="492" height="287" alt="image" src="https://github.com/user-attachments/assets/fe1e52fe-0fc8-490b-8b0d-d22be480c6d5" />
 
 
 
